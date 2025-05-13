@@ -51,7 +51,7 @@ export default function AboutPage() {
             </div>
             <div className="order-1 lg:order-2 relative h-[400px] lg:h-[500px]">
               <Image
-                src="/images/our-story.jpg"
+                src="/about.jpg"
                 alt="Historia de OfflineImpacto"
                 fill
                 className="object-cover rounded-lg"
@@ -121,59 +121,7 @@ export default function AboutPage() {
       </section>
 
       {/* Team Section */}
-      <section className="py-20">
-        <div className="container mx-auto px-4">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold mb-4">Nuestro Equipo</h2>
-            <p className="text-gray-600 max-w-3xl mx-auto">
-              Contamos con un equipo multidisciplinar de profesionales apasionados por el marketing offline.
-            </p>
-          </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {[
-              {
-                name: "Carlos Rodríguez",
-                role: "Director Creativo",
-                image: "/images/team/team-1.jpg",
-                bio: "Con más de 15 años de experiencia en publicidad, Carlos lidera nuestro departamento creativo con pasión e innovación.",
-              },
-              {
-                name: "Elena Martínez",
-                role: "Directora de Estrategia",
-                image: "/images/team/team-2.jpg",
-                bio: "Especialista en planificación estratégica, Elena asegura que cada campaña responda a objetivos claros y medibles.",
-              },
-              {
-                name: "Miguel Torres",
-                role: "Responsable de Producción",
-                image: "/images/team/team-3.jpg",
-                bio: "Miguel supervisa todos los aspectos técnicos y logísticos de nuestras campañas, garantizando una ejecución impecable.",
-              },
-              {
-                name: "Laura Sánchez",
-                role: "Directora de Cuentas",
-                image: "/images/team/team-4.jpg",
-                bio: "Laura es el enlace principal con nuestros clientes, asegurando que sus necesidades se traduzcan en campañas efectivas.",
-              },
-            ].map((member, index) => (
-              <div key={index} className="text-center">
-                <div className="relative h-64 mb-4 overflow-hidden rounded-lg">
-                  <Image
-                    src={member.image || "/placeholder.svg"}
-                    alt={member.name}
-                    fill
-                    className="object-cover"
-                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
-                  />
-                </div>
-                <h3 className="text-xl font-bold">{member.name}</h3>
-                <p className="text-brand-600 mb-2">{member.role}</p>
-                <p className="text-gray-600">{member.bio}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+     
 
       {/* Stats Section */}
       <section className="py-20 bg-brand-700 text-white">

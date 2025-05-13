@@ -1,0 +1,77 @@
+[
+  {
+    "id": "vallas-publicitarias",
+    "title": "Vallas Publicitarias",
+    "shortDescription": "Impacta a tu audiencia con vallas publicitarias estratégicamente ubicadas en toda España.",
+    "description": "Nuestras vallas publicitarias ofrecen una visibilidad incomparable para tu marca. Ubicadas estratégicamente en las principales vías urbanas e interurbanas de España, garantizamos que tu mensaje llegue a miles de personas diariamente. Trabajamos con los mejores proveedores para asegurar la máxima calidad de impresión y durabilidad en todos nuestros materiales.",
+    "features": [
+      "Ubicaciones premium en zonas de alto tráfico",
+      "Diseño personalizado adaptado a tu marca",
+      "Materiales de alta calidad resistentes a la intemperie",
+      "Iluminación opcional para mayor visibilidad nocturna",
+      "Informes detallados de impacto y visibilidad"
+    ],
+    "image": "/dc11aa3e9cc9a009660da2a9b79ac648.jpg",
+    "icon": "LayoutBillboard"
+  },
+  {
+    "id": "publicidad-transporte",
+    "title": "Publicidad en Transporte",
+    "shortDescription": "Lleva tu mensaje a toda la ciudad con publicidad en autobuses, metros y taxis.",
+    "description": "La publicidad en medios de transporte ofrece una exposición continua y móvil para tu marca. Cubrimos todas las opciones: desde rotulación completa de autobuses y vagones de metro, hasta publicidad interior en asientos y pasamanos. Esta modalidad permite alcanzar a un público diverso en diferentes puntos de la ciudad, maximizando el retorno de tu inversión publicitaria.",
+    "features": [
+      "Rotulación completa o parcial de vehículos",
+      "Publicidad interior en asientos, pasamanos y pantallas",
+      "Campañas en estaciones de metro y paradas de autobús",
+      "Seguimiento GPS para análisis de rutas e impacto",
+      "Opciones para campañas de corta y larga duración"
+    ],
+    "image": "/f7426898b4e6aae3d021440d2b95aaf5.jpg",
+    "icon": "Bus"
+  },
+  {
+    "id": "material-promocional",
+    "title": "Material Promocional",
+    "shortDescription": "Refuerza tu identidad de marca con productos promocionales personalizados de alta calidad.",
+    "description": "El material promocional es una herramienta poderosa para mantener tu marca en la mente de clientes y prospectos. Ofrecemos una amplia gama de productos personalizables, desde artículos de papelería hasta textiles y accesorios tecnológicos. Cada pieza se diseña cuidadosamente para reflejar la identidad de tu marca y crear una conexión duradera con tu audiencia.",
+    "features": [
+      "Amplio catálogo de productos personalizables",
+      "Materiales sostenibles y ecológicos disponibles",
+      "Producción local para reducir tiempos de entrega",
+      "Control de calidad riguroso en cada pedido",
+      "Asesoramiento para seleccionar los productos más efectivos"
+    ],
+    "image": "/199f4e23b0743fd9deea29751caa0569.jpg",
+    "icon": "Gift"
+  },
+  {
+    "id": "folletos-catalogos",
+    "title": "Folletos y Catálogos",
+    "shortDescription": "Comunica tu oferta con materiales impresos de diseño profesional y alta calidad.",
+    "description": "Los materiales impresos siguen siendo una herramienta fundamental en cualquier estrategia de marketing. Diseñamos y producimos folletos, catálogos, flyers y todo tipo de material impreso con los más altos estándares de calidad. Nuestro equipo creativo trabaja para que cada pieza no solo informe, sino que también refuerce la identidad visual de tu marca y genere el impacto deseado.",
+    "features": [
+      "Diseño gráfico profesional y personalizado",
+      "Múltiples opciones de formato, papel y acabados",
+      "Impresión ecológica con tintas vegetales",
+      "Servicios de distribución y buzoneo disponibles",
+      "Asesoramiento en contenido y estructura"
+    ],
+    "image": "/486bd98f6e21a4c054da843c9930c5ce.jpg",
+    "icon": "FileText"
+  },
+  {
+    "id": "eventos-activaciones",
+    "title": "Eventos y Activaciones",
+    "shortDescription": "Crea experiencias memorables con eventos y activaciones de marca personalizados.",
+    "description": "Los eventos y activaciones de marca crean conexiones directas y memorables con tu audiencia. Diseñamos experiencias únicas que reflejan los valores de tu marca y generan engagement real. Desde pequeñas activaciones en punto de venta hasta grandes eventos corporativos, nos encargamos de cada detalle para garantizar el éxito de tu acción de marketing experiencial.",
+    "features": [
+      "Conceptualización creativa adaptada a tus objetivos",
+      "Producción completa de stands y elementos decorativos",
+      "Personal especializado para la ejecución",
+      "Documentación fotográfica y audiovisual",
+      "Análisis post-evento con métricas de impacto"
+    ],
+    "image": "/c2ca11a0d370973100c0472ac33f0722.jpg",
+    "icon": "PartyPopper"
+  }
+]

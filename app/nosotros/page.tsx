@@ -120,9 +120,6 @@ export default function AboutPage() {
         </div>
       </section>
 
-      {/* Team Section */}
-     
-
       {/* Stats Section */}
       <section className="py-20 bg-brand-700 text-white">
         <div className="container mx-auto px-4">

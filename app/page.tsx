@@ -131,7 +131,7 @@ export default function Home() {
       <section className="py-20">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="section-title text-white ">Nuestros Servicios</h2>
+            <h2 className="section-title text-white">Nuestros Servicios</h2>
             <p className="section-description">
               Ofrecemos una amplia gama de servicios de marketing offline para ayudarte a conectar con tu audiencia de
               forma efectiva y memorable.
